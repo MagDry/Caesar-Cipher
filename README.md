@@ -2,7 +2,7 @@
 
 Single project (HTML, CSS, JS)
 
-Viev here:
+View here:
 
 <a href="https://magdry.github.io/Caesar-Cipher">Caesar Cipher</a>
 
