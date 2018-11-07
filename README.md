@@ -8,4 +8,4 @@ View here:
 
 <img src="http://magdry.pl/images/cesar.jpg"/>
 
-based on <a href="www.nayuki.io">nayuki.io</a>
+based on <a href="http://nayuki.io">nayuki.io</a>
